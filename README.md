@@ -1,7 +1,7 @@
 # 👋 Hello, I'm [Ledev]
 
 ## 🚀 About Me
-An Egyptian System Programmer , Linux and Windows User And Chess Player 
+An Egyptian System Programmer , Linux and Windows User And Chess Player /n
 I 💝 Open Source , Linux , Coding And All Tech.
 
 ## 💻 Skills & Technologies
