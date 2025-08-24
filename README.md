@@ -70,8 +70,6 @@ I 💝 Open Source , Linux , Coding And All Tech.
   
 ### 🌟 Thanks for visiting my profile! 🌟
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge)
-
 </div>
 
 ---
