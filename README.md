@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 An Egyptian System Programmer , Linux and Windows User And Chess Player 
-I Open Source , Linux , Coding And All Tech.
+I 💝 Open Source , Linux , Coding And All Tech.
 
 ## 💻 Skills & Technologies
 
