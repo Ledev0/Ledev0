@@ -1,17 +1,15 @@
 # 👋 Hello, I'm [Ledev]
 
 ## 🚀 About Me
-An Egyptian System Programmer , Linux and Windows User And Chess Player |||
+An Egyptian Programmer , Linux and Windows User And Chess Player |||
 I 💝 Open Source , Linux , Coding And All Tech.
 
 ## 💻 Skills & Technologies
 
 ### 🛠️ Languages
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 💻 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -34,6 +32,7 @@ I 💝 Open Source , Linux , Coding And All Tech.
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 ![Geany](https://img.shields.io/badge/Geany-62B3B3?style=for-the-badge&logo=geany&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+![Helix](https://img.shields.io/badge/Helix-FF6F61?style=for-the-badge&logo=helix&logoColor=white)
 
 ## 📊 GitHub Statistics
 
