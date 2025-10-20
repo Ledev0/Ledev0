@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Seif Amr or Ledev
 
 ## 🚀 About Me
-An Egyptian Programmer , Linux and Windows User And Chess Player |||
-I 💝 Open Source , Linux , Coding And All Tech.
+An Egyptian Programmer , Linux User
 
 ## 💻 Skills & Technologies
 
