@@ -100,18 +100,6 @@ Seasoned Java architect with expertise in designing and implementing scalable, d
 
 ---
 
-## 📊 Impact & Metrics
-
-<div align="center">
-
-![Seif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ledev0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ledev0&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ledev0&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 🎓 Continuous Learning Path
