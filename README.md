@@ -91,11 +91,6 @@ Seasoned Java architect with expertise in designing and implementing scalable, d
   - Performance optimization techniques
 - **Repository:** [github.com/Ledev0/MJF](https://github.com/Ledev0/MJF)
 
-
----
-
-```
-
 ---
 
 ## 🌟 Certifications & Achievements
