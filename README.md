@@ -32,6 +32,7 @@ Seasoned Java architect with expertise in designing and implementing scalable, d
 
 **Languages**
 - Java ⭐⭐⭐⭐⭐
+- C ⭐⭐⭐⭐⭐
 
 </td>
 <td>
@@ -40,7 +41,6 @@ Seasoned Java architect with expertise in designing and implementing scalable, d
 - Spring Boot / Spring Cloud
 - Spring Data & Hibernate
 - Microservices Architecture
-- RESTful & GraphQL APIs
 
 </td>
 </tr>
@@ -50,7 +50,6 @@ Seasoned Java architect with expertise in designing and implementing scalable, d
 **DevOps & Infrastructure**
 - Docker & Container Orchestration
 - Kubernetes basics
-- CI/CD Pipelines
 - Linux Administration
 
 </td>
@@ -58,8 +57,6 @@ Seasoned Java architect with expertise in designing and implementing scalable, d
 
 **Databases & Caching**
 - PostgreSQL, MySQL
-- MongoDB (NoSQL)
-- Redis Caching
 - Query Optimization
 
 </td>
@@ -73,6 +70,7 @@ Seasoned Java architect with expertise in designing and implementing scalable, d
 | Area | Proficiency | Details |
 |------|-------------|---------|
 | **Core Java** | ████████░░ 85% | OOP, Concurrency, Streams, Functional Programming |
+| **Core Programming** | █████████░ 95% | OOP, Basics, Streams, Functional Programming |
 | **Spring Ecosystem** | ████████░░ 85% | Boot, Data, Security, Cloud, Batch |
 | **System Design** | ███████░░░ 75% | Scalability, Database Design, Caching Strategies |
 | **Linux/DevOps** | ███████░░░ 75% | Server Admin, Bash Scripting, Container Tech |
@@ -93,33 +91,9 @@ Seasoned Java architect with expertise in designing and implementing scalable, d
   - Performance optimization techniques
 - **Repository:** [github.com/Ledev0/MJF](https://github.com/Ledev0/MJF)
 
-### 📋 Current Pipeline
-- 🔨 Enterprise API Development with Spring Boot
-- 🐳 Microservices Architecture Project
-- 📊 Advanced Data Processing System
 
 ---
 
----
-
-## 🎓 Continuous Learning Path
-
-```
-Phase 1: Core Mastery ✅
-└─ Java Fundamentals, OOP, Design Patterns
-
-Phase 2: Enterprise Architecture 🔄
-├─ Spring Boot Advanced
-├─ Microservices Patterns
-└─ System Design & Scalability
-
-Phase 3: Cloud & DevOps (Current)
-├─ Kubernetes & Container Orchestration
-├─ Cloud-Native Architecture
-└─ Infrastructure as Code
-
-Phase 4: Leadership & Architecture (Next)
-└─ Enterprise Architecture, Team Leadership
 ```
 
 ---
@@ -138,7 +112,7 @@ Phase 4: Leadership & Architecture (Next)
 **Primary Tools:**
 - **IDEs:** Eclipse IDE, VS Code, Neovim
 - **Version Control:** Git, GitHub, GitHub Actions
-- **Build Tools:** Maven, Gradle
+- **Build Tools:** Maven, Gradle , Make 
 - **Testing:** JUnit 5, Mockito, TestNG
 - **Monitoring:** ELK Stack, Prometheus basics
 
