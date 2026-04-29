@@ -69,7 +69,6 @@ Seasoned Java architect with expertise in designing and implementing scalable, d
 
 | Area | Proficiency | Details |
 |------|-------------|---------|
-| **Core Java** | ████████░░ 85% | OOP, Concurrency, Streams, Functional Programming |
 | **Core Programming** | █████████░ 95% | OOP, Basics, Streams, Functional Programming |
 | **Spring Ecosystem** | ████████░░ 85% | Boot, Data, Security, Cloud, Batch |
 | **System Design** | ███████░░░ 75% | Scalability, Database Design, Caching Strategies |
