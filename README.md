@@ -32,10 +32,10 @@
 - C
 
 ### Tools
-- Git · GitHub · IntelliJ · VS Code · Linux
+- Git · GitHub · Tmux · Neovim & Vim 
 
 ### OS
-- Linux · Windows
+- Fedora (Linux) · Windows
 
 ---
 
