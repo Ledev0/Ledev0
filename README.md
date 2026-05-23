@@ -48,8 +48,7 @@
 ## Projects / مشاريع مختارة
 - MJF — Deep-dive exploration of Java from fundamentals to advanced concepts  
   https://github.com/Ledev0/MJF
-- LeVIX — An efficient IDE built with Lua for streamlined development.
-
+- LeVIX — An efficient IDE built with Lua for streamlined development.                                                                  
   https://github.com/Ledev0/LeVIX
 ---
 
