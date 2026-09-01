@@ -1,6 +1,5 @@
-# Seif Amr (Ledev0) — سيف عمرو
-
-مرحبا — I'm Seif Amr, a 17-year-old intermediate developer from Egypt. I keep my profile minimal and focused on learning and building.
+# Seif Amr (Ledev0)
+I'm Seif Amr, developer from Egypt. I keep my profile minimal and focused on learning and building.
 
 ---
 
@@ -37,10 +36,9 @@
 ---
 
 ## Projects / مشاريع مختارة
-- MJF — Deep-dive exploration of Java from fundamentals to advanced concepts  
+- MJF — Deep-dive exploration of Java from fundamentals to advanced concepts.
   https://github.com/Ledev0/MJF
-- LeVIX — An efficient IDE built with Lua for streamlined development.                                                                  
-  https://github.com/Ledev0/LeVIX
+- LeVIX — A curated Neovim distribution (Lua config) with built-in LSP, debugging, and tooling for Java/Python/C/C++/Web.                      https://github.com/Ledev0/LeVIX
 ---
 
 ## Contact / تواصل
